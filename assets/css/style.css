@@ -75,14 +75,14 @@ body {
     margin-right: 6px;
 }
 
-.header .logo span {
+/* .header .logo span {
     font-size: 30px;
     font-weight: 700;
     letter-spacing: 1px;
     color: #012970;
     font-family: "Nunito", sans-serif;
     margin-top: 3px;
-}
+} */
 
 /* Navigation Menu  */
 
@@ -639,20 +639,20 @@ body {
     height: 40px;
     border-radius: 4px;
     transition: all 0.4s;
-}
-
-.back-to-top i {
+  }
+  
+  .back-to-top i {
     font-size: 24px;
     color: #fff;
     line-height: 0;
-}
-
-.back-to-top:hover {
+  }
+  
+  .back-to-top:hover {
     background: #6776f4;
     color: #fff;
-}
-
-.back-to-top.active {
+  }
+  
+  .back-to-top.active {
     visibility: visible;
     opacity: 1;
-}
+  }
